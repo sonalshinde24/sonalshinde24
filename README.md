@@ -5,7 +5,7 @@
 
 # 💫 About Me: 
 
-# Hi there! 👋 I'm Sonal Shinde  
+# Hi there! 👋 I'm Sonal Shinde.
 
 - **Aspiring Data Scientist & ML Enthusiast 🚀**
 - Passionate about building AI-driven solutions and impactful projects.  
