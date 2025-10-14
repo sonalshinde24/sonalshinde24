@@ -1,4 +1,4 @@
-<div align="center">   
+<div align="center">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=sonalshinde24&color=ff69b4&label=No%20of%20Visitors:&style=plastic"width=300) 
 </div>
