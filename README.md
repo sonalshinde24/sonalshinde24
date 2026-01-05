@@ -2,7 +2,6 @@
   
 ![Visitor Count](https://komarev.com/ghpvc/?username=sonalshinde24&color=ff69b4&label=No%20of%20Visitors:&style=plastic"width=300) 
 </div>
-
 # 💫 About Me:
 
 # Hi there! 👋 I'm Sonal Shinde,
